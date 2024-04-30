@@ -9,3 +9,17 @@ li{
     margin-right: auto;
     width: 50%;
 }
+button{
+    width: 25%;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid whitesmoke;
+    background: transparent;
+    color:black;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
